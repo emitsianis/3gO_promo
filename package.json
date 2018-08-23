@@ -1,0 +1,21 @@
+{
+  "name": "3go_promo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emitsianis/3gO_promo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emitsianis/3gO_promo/issues"
+  },
+  "homepage": "https://github.com/emitsianis/3gO_promo",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
